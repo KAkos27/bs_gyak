@@ -1,0 +1,11 @@
+body{
+    background-image: url(hatter.jpg);
+}
+footer{
+    background-color: aqua;
+}
+img{
+    width: 100%;
+    border: 1px solid grey;
+    padding: 5px;
+}
